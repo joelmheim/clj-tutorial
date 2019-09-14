@@ -15,4 +15,5 @@ Therefore I have provided a set of resources and some suggested tasks for you to
 Other resources:
 * [Clojure official website](https://clojure.org)
 * [Leiningen build tool](https://leiningen.org)
+* [ClojureDocs.org](https://clojuredocs.org/)
 * [ClojureScript](https://clojurescript.org/)

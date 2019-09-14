@@ -10,3 +10,5 @@
 * [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
 * [Getting started with Clojure](https://www.twilio.com/blog/2016/02/getting-started-with-clojure.html)
 * [Another getting started guide](https://opensourceforu.com/2011/03/getting-started-with-clojure/)
+* [Test Driven Development in Clojure](https://www.linkedin.com/pulse/getting-started-tdd-clojure-richard-wild/)
+* [ClojureBridge Curriculum](https://clojurebridge.org/curriculum/#/)
