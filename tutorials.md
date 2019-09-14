@@ -9,3 +9,4 @@
 * [ClojureBridge - Lab](https://clojurebridge.org/community-docs/index.html)
 * [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
 * [Getting started with Clojure](https://www.twilio.com/blog/2016/02/getting-started-with-clojure.html)
+* [Another getting started guide](https://opensourceforu.com/2011/03/getting-started-with-clojure/)
