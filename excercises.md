@@ -2,7 +2,9 @@
 
 ### Step 0 - Getting started
 * [Install clujure](installation.md)
-*
+* [A Clojure Newbie Guide](https://www.clojurenewbieguide.com/)
+* (Optional) [RIP Tutorial - Clojure](https://riptutorial.com/clojure)
+
 
 ### Step 1 - Learn the basics
 * [Clojure Koans](https://github.com/functional-koans/clojure-koans)
