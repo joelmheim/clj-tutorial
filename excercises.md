@@ -1,7 +1,7 @@
 ## Excercises
 
 ### Step 0 - Getting started
-* [Install clujure](installation.md)
+* [Install clojure](installation.md)
 * [A Clojure Newbie Guide](https://www.clojurenewbieguide.com/)
 * (Optional) [RIP Tutorial - Clojure](https://riptutorial.com/clojure)
 
